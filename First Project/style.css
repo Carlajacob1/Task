@@ -37,8 +37,8 @@
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 10px;
-  width: 1000px; /* Adjust the width to your desired size */
-  margin: 20px auto; /* Adds margin to create space */
+  width: 1000px; 
+  margin: 20px auto; 
 }
 
 .image-item {
